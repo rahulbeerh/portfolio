@@ -242,7 +242,8 @@ nav {
     height: 100%;
     width: 100%;
     /* border-radius: 100%; */
-    box-shadow: 0 3rem 5rem #000;
+    /* box-shadow: 0 3rem 5rem #000; */
+    box-shadow: 2rem 3rem 6rem rgba(0, 0, 0, 0.68);
     border: transparent;
     object-fit:contain;
 }
